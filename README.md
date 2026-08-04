@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush1234rathi/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3731-find-missing-elements](https://github.com/ayush1234rathi/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -30,8 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush1234rathi/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3731-find-missing-elements](https://github.com/ayush1234rathi/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush1234rathi/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/ayush1234rathi/LeetCode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
